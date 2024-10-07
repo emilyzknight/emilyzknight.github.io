@@ -1,5 +1,5 @@
 hide:
-  - navigation
+  - nav
 
 <!-- <div style="float: right; padding: 0px 0px 5px 20px;text-align:center">
     <a class= "reference internal image-reference" href="/_static/www/img/march_9_2008_epo_mosaic.png">
