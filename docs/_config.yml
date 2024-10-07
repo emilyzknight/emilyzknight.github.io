@@ -33,7 +33,7 @@ nav:
       - Operational Amplifiers: circuits/notes/op_amps.md
       - AC Circuits: circuits/notes/ac_circuits.md
         - AC Power: circuits/notes/ac_power.md
-      - DC Machines: circuits/notes/dc_machiens.md
+      - DC Machines: circuits/notes/dc_machines.md
     - Question Types: circuits/question_types.md
   - Colorimetry:
     - Overview: colorimetry/overview.md
