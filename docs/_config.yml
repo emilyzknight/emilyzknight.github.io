@@ -31,7 +31,8 @@ nav:
       - Introduction: circuits/notes/introduction.md
       - Systematic Circuit Analysis: circuits/notes/analysis.md
       - Operational Amplifiers: circuits/notes/op_amps.md
-      - AC Circuits: circuits/notes/ac_circuits.md
+      - AC Circuits:
+        - Overview: circuits/notes/ac_circuits.md
         - AC Power: circuits/notes/ac_power.md
       - DC Machines: circuits/notes/dc_machines.md
     - Question Types: circuits/question_types.md
