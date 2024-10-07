@@ -1,0 +1,84 @@
+# ------------------
+# theme settings
+# ------------------
+theme: jekyll-theme-minimal
+title: Emily Knight
+
+# theme:
+#   name: material
+#   logo: _static/www/img/logo.svg
+#   favicon: _static/www/img/logo.svg
+#   palette:
+#     - scheme: default
+#       primary: black
+#       accent: teal
+#       toggle:
+#         icon: material/toggle-switch-off-outline
+#         name: Switch to dark mode
+#     - scheme: slate
+#       primary: black
+#       accent: teal
+#       toggle:
+#         icon: material/toggle-switch
+#         name: Switch to light mode
+#   features:
+#     - navigation.instant
+#     - navigation.top
+#     - navigation.tabs
+#     - navigation.tabs.sticky
+#     - content.tabs.link
+#     - search.suggest
+#     - search.highlight
+#     - search.share
+#     - content.code.copy
+#     - toc.integrate
+# markdown_extensions:
+#   - meta
+#   - admonition
+#   - attr_list
+#   - md_in_html
+#   - tables
+#   - toc:
+#       permalink: true
+#       toc_depth: 3
+#       title: On this page
+#   - markdown.extensions.codehilite:
+#       guess_lang: false
+#   - pymdownx.details
+#   - pymdownx.superfences
+#   - pymdownx.tabbed:
+#       alternate_style: true   
+#   - pymdownx.emoji:
+#       emoji_index: !!python/name:materialx.emoji.twemoji
+#       emoji_generator: !!python/name:materialx.emoji.to_svg
+       
+extra:
+  social:
+    - icon: fontawesome/solid/email
+      link: mailto:emily.knight2@ucalgary.ca
+      name: Email
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/emilyzknight/
+      name: Linkedin
+
+# ------------------
+# navigation
+# ------------------
+nav:
+  - Home: index.md
+  - About Me:
+    - CV: about-me/cv.md
+    - Projects: about_me/projects.md
+  - Intro to Circuits:
+    - Overview: circuits/overview.md
+    - Content: 
+      - Overview: circuits/notes/overview.md
+      - Introduction: circuits/notes/introduction.md
+      - Systematic Circuit Analysis: circuits/notes/analysis.md
+      - Operational Amplifiers: circuits/notes/op_amps.md
+      - AC Circuits: circuits/notes/ac_circuits.md
+        - AC Power: circuits/notes/ac_power.md
+      - DC Machines: circuits/notes/dc_machiens.md
+    - Question Types: circuits/question_types.md
+  - Colorimetry:
+    - Overview: colorimetry/overview.md
