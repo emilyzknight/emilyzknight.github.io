@@ -1,11 +1,11 @@
 hide:
   - navigation
 
-<div style="float: right; padding: 0px 0px 5px 20px;text-align:center">
+<!-- <div style="float: right; padding: 0px 0px 5px 20px;text-align:center">
     <a class= "reference internal image-reference" href="/_static/www/img/march_9_2008_epo_mosaic.png">
         <img alt="_static/www/img/march_9_2008_epo_mosaic.png" src="/_static/www/img/march_9_2008_epo_mosaic.png" style ="width: 700px; height: auto;">
     </a>
-</div>
+</div> -->
 
 # Emily Knight
 ## MSc. Geomatics Engineering Student
